@@ -24,7 +24,7 @@ A key thing to be aware of is that it is impossible to completely fulfill the re
 The overall expectation of the Provenance Run Crate is shown below. (Figure from the link above.)
 
 <div>
-<img src="https://www.researchobject.org/workflow-run-crate/profiles/img/er_diagram.svg" width="500"/>
+<img src="https://www.researchobject.org/workflow-run-crate/profiles/img/er_diagram_provenance.svg" width="500"/>
 </div>
 
 Out of all of these portions, the Chimbuko provenance database is only able to describe the upper right triangle of requirements, as will be described below.
